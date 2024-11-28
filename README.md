@@ -1,4 +1,4 @@
-# VRV_Authentication **Role-Based Access Control (RBAC) System**
+# **VRV_Authentication Role-Based Access Control (RBAC) System**
 
 
 A secure **Role-Based Access Control (RBAC) System** developed with **Flask**, **MongoDB**, and **JWT Authentication**. This project provides robust authentication and authorization features, ensuring proper role-based access for **Admin** and **User** roles. The system includes password management, secure sessions, and role-specific functionalities. 
@@ -161,8 +161,8 @@ Icons enhance UI aesthetics and functionality:
 ## **📧 Contact**
 
 For queries or suggestions:
-- **Email:** your-email@example.com
-- **GitHub:** [YourGitHub](https://github.com/YourGitHub)
+- **Email:** nikhildubey183@gmail.com
+- **GitHub:** (https://github.com/NIKHIL-58)
 
 ---
 
