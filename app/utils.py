@@ -38,7 +38,7 @@ def allowed_file(filename):
 def send_otp_email(email, otp):
     try:
         sender_email = "nikhildubey183@gmail.com"
-        sender_password = "jemw ilfy dcjc flns"  
+        sender_password = "@@@@@@@@@@@@"  
         receiver_email = email
 
         subject = "OTP for Reset Password"
