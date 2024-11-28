@@ -1,6 +1,3 @@
-Here is the `README.md` file content for your **VRV_Authentication Role-Based Access Control (RBAC) System** project:
-
-```markdown
 # **VRV_Authentication Role-Based Access Control (RBAC) System**
 
 A secure **Role-Based Access Control (RBAC) System** developed using **Flask**, **MongoDB**, and **JWT Authentication**. This system ensures robust authentication and authorization with role-based functionalities for **Admin** and **User** roles, providing features like password management, secure sessions, and role-specific access control.
@@ -157,4 +154,3 @@ For queries or suggestions:
 **✨ Crafted for secure systems with passion!**
 ```
 
-You can use or modify this as needed for your project. Let me know if you need further adjustments!
