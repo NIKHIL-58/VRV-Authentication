@@ -30,9 +30,22 @@ A secure **Role-Based Access Control (RBAC) System** developed using **Flask**, 
 
 ### **Login Page**
 ![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/login.png)
-
+### **Signup Page**
+![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/signup.png)
 ### **Home Page**
 ![Home Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/home.png)
+### **Profile Page**
+![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/profile.png)
+### **About Page**
+![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/about.png)
+### **contact Page**
+![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/contact.png)
+### **Forgot Page**
+![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/forgot.png)
+### **OTP Page**
+![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/otp.png)
+### **Reset Page**
+![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/reset.png)
 
 ---
 
