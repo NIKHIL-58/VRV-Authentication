@@ -26,6 +26,17 @@ A secure **Role-Based Access Control (RBAC) System** developed using **Flask**, 
 
 ---
 
+## **📸 Screenshots**
+
+### **Login Page**
+![Login Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/login.png)
+
+### **Home Page**
+![Home Page](https://github.com/NIKHIL-58/VRV-Authentication/blob/main/screenshot/home.png)
+
+---
+
+
 ## **📂 Project Structure**
 
 ```plaintext
