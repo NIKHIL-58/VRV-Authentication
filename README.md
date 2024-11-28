@@ -103,8 +103,7 @@ A secure **Role-Based Access Control (RBAC) System** developed using **Flask**, 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/rbac-system.git
-   cd rbac-system
+   git clone https://github.com/NIKHIL-58/VRV-Authentication
    ```
 
 2. **Install Dependencies**
